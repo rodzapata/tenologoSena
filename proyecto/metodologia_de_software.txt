@@ -1,0 +1,16 @@
+1. metodologia de desarrollo de software:
+es un marco de trabajo
+conjunto de procedimientos, tecnicas y metodologia del desarrollo del software
+clasifiacion de metodologia:
+marcos de trabajo tradicionales : se basa en planear y controlar el proceso
+-modelo de cascada:
+ninguna fase se puede iniciar sin terminar la anteior
+tiene 5 etapas: Requermientos, Diseño, Implementacion, verificacion y mantenimiento.
+
+validacion de los requerimientos, es muy importante que realmente este especificado lo
+que el cliente desaa y necesita.
+se revisa( valides, consistencias, completitud, realismo, verificabilidad, version de requerimientos)
+evidencias de requisitos.
+marcos de trabajo tradicionales metodolgias agiles
+
+ 
