@@ -1,0 +1,13 @@
+Estimacion de punto de historia.
+para estimar hay que tener en cuenta el grado de dificultad,
+se escoje un pivote, que es una historia de usuario que todos 
+la saben realizar.
+y se le estima un tiempo, que vamos a utilizar como patron de comparacion.
+despues comparamos este patron con cada una de las
+demas historias, por ejemplo si es el doble de difultad o 
+la mitad de dificultad comparandolo con el patron (pivote)
+
+scrum poker
+
+---1---
+ 

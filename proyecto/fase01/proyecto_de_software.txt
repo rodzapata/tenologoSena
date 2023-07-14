@@ -1,0 +1,52 @@
+Planteamiento del problema
+
+El problema consiste en que las órdenes de trabajos que se realizan en la empresa se diligencian de forma manual, los formatos en papel existentes son tediosos y se demora mucho el diligenciamiento.
+
+No se lleva un debido cronograma de actividades realizadas, porque se dificulta llevarlo de manera manual, es urgente contar con una herramienta sistematizada que agilice los procesos y permitan monitorear todas las fases del mantenimiento preventivo de aires acondicionado de la compañía.
+
+------------
+alcance
+
+------------
+Objetivos
+
+El objetivo principal de la realización de este software es satisfacer la necesidad
+de realizacion de ordenes de trabajos por parte del personal de la empresa. 
+
+En general, el objetivo de la realización de un software es proporcionar valor a los usuarios y mejorar la eficiencia y efectividad de las Compañia.
+
+Objetivos especificos:
+
+1. Automatizar procesos manuales y reducir los errores humanos: El software puede ayudar a automatizar procesos manuales y repetitivos, lo que puede mejorar la eficiencia y reducir los errores humanos.
+2. Simplificar el diligenciamiento de las Ordenes de trabajo
+
+3. Mejorar la productividad al proporcionar herramientas que permitan a los usuarios realizar tareas de manera más rápida y efectiva.
+
+3. Proporcionar información: El software puede ser utilizado para recopilar, almacenar y analizar datos, lo que permite a los usuarios tomar decisiones informadas y basadas en hechos.
+
+4. Mejorar la calidad del producto software al permitir a los usuarios realizar un seguimiento de los procesos y detectar problemas de calidad temprano en el proceso.
+
+5.Reducir costos: El software puede reducir costos al automatizar tareas y procesos, 
+6. reducir errores y minimizar el tiempo necesario para realizar tareas.
+
+---------
+Justificacion del problema
+
+La justificación de la licitación de requisitos radica en su capacidad para establecer una base sólida para el desarrollo de software exitoso. Si los requisitos del sistema no se comprenden y definen correctamente desde el principio, se corre el riesgo de desarrollar un sistema que no cumpla con los requisitos y necesidades del usuario final, lo que puede resultar en un software defectuoso y en costos adicionales y retrasos en el proyecto.
+
+Además, la licitación de requisitos ayuda a identificar y abordar problemas potenciales en el diseño y la funcionalidad del sistema antes de que se desarrolle el software, lo que puede ahorrar tiempo y recursos. También puede ayudar a garantizar la calidad del software y mejorar la satisfacción del cliente al producir un producto que cumpla con sus expectativas y necesidades.
+------------
+
+------------
+Se nececitan relizar orden de trabajo que se aeguren de lo siguienete:
+
+la claridad y comprensión de las tareas a realizar, ayude a garantizar que todas las personas involucradas en el proyecto entiendan lo que se espera de ellos y cuáles son las tareas específicas que deben realizarse.
+
+Facilitar la coordinación de tareas: ayudando a coordinar las tareas de varias personas y asegurandose que cada una de ellas realice las tareas asignadas en el momento adecuado y en el orden correcto.
+
+Monitorear el progreso del proyecto: que  le permita a los supervisores y gerentes de proyecto realicen un seguimiento del trabajo realizado y asegurándose de que se esté cumpliendo con los plazos y objetivos establecidos.
+
+En general, la orden de trabajo es una herramienta útil para asegurar que las tareas específicas se realicen de manera efectiva y eficiente, y para garantizar que todos los miembros del equipo trabajen de manera coordinada.
+
+------------
+https://becasyconvocatorias.org/planteamiento-problema-tesis/
