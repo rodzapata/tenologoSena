@@ -3,6 +3,30 @@ https://www.office.com
 
 correo: rodney.zapata@soy.sena.edu.co
 -------------------
+iformacion sobre el examen de certificacion IELTS
+https://www.britishcouncil.co/examen-ingles/ielts/papel-computador
+
+phrasal verb
+https://www.mansioningles.com/Gram54.htm
+
+letras que hay que practicar la pronunciacion
+D, G, H, J, R, S, T, V, y, X, Z
+https://www.youtube.com/watch?v=MWuR5gyKIIQ
+
+letra D se pronunicia https://www.youtube.com/watch?v=GAoS1QDDK7A
+palabras terminadas en ED
+https://www.youtube.com/watch?v=72bZnh08tb4
+
+NO prununciar ls D en las siguientes fraces:
+https://www.youtube.com/watch?v=cztw76aM-18&t=416s
+
+
+Is healthy to do sport regularly
+
+pagina que corrige las oraciones gramaticalmente
+https://www.reverso.net/traducci%C3%B3n-texto#sl=eng&tl=spa&text=sorry%252C%2520I%2520forgot%2520my%2520pass
+
+-------------
 
 https://balsamiq.com/wireframes/desktop/archives/?prefix=Mockups/Mockups-3/
 
@@ -23,3 +47,23 @@ https://www.youtube.com/watch?v=JpbYC88isgs
 
 --video de bellatrix--
 https://www.youtube.com/watch?v=9grtRhkJDd8
+
+---vocabulary QA ---
+fix
+deploy
+design
+pass
+fail
+drop call
+execute
+fw
+ooo
+block
+fyi
+kt
+asap
+oos
+sing-off
+scope
+deadline
+
