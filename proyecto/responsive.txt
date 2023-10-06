@@ -1,0 +1,4 @@
+explica que es mejor realizar responsive con grid
+en vez de util @media query
+
+https://www.youtube.com/watch?v=El0OJ6h_2ZI
