@@ -2,3 +2,21 @@ explica que es mejor realizar responsive con grid
 en vez de util @media query
 
 https://www.youtube.com/watch?v=El0OJ6h_2ZI
+https://www.youtube.com/watch?v=L-zvvvP_Ae4&list=PLP7LlHfxfuM9km4WOPxtoI7GuuSYOiBam&index=7
+
+maquetado responsive
+https://www.youtube.com/watch?v=T4t00Hd3qZc
+
+flexbox
+https://www.youtube.com/watch?v=Y6yviDqdMc8&list=PLP7LlHfxfuM9km4WOPxtoI7GuuSYOiBam&index=6
+
+
+menu con css
+
+https://www.youtube.com/watch?v=IKema5G0XZ0
+
+
+pagina web desde cero, con flexbox y grid
+https://www.youtube.com/watch?v=ADbxRybIpH0&list=PL9T-KKyKXNClKYVq2vwjIXzn9wyNs3XtC
+
+
