@@ -1,11 +1,35 @@
+bootstrap in english
+https://www.youtube.com/watch?v=-qfEOE4vtxE
+https://www.youtube.com/watch?v=J8FjPatoilw
+con jhonatna mircha
+https://www.youtube.com/watch?v=ng8ur8KNrpU&t=2834s 
+
+diseño web completo soy Dalto
+https://www.youtube.com/watch?v=kN1XP-Bef7w&list=PLE8uP447fYpis_9iiaT1GrdOLmg85pAJB
+
+
 explica que es mejor realizar responsive con grid
 en vez de util @media query
 
 https://www.youtube.com/watch?v=El0OJ6h_2ZI
 https://www.youtube.com/watch?v=L-zvvvP_Ae4&list=PLP7LlHfxfuM9km4WOPxtoI7GuuSYOiBam&index=7
 
-maquetado responsive
+maquetado responsive utilizando template area
 https://www.youtube.com/watch?v=T4t00Hd3qZc
+
+barra de navegacion responsive
+https://www.youtube.com/watch?v=xQstBIPeOdU
+https://www.youtube.com/watch?v=JrNebzIUrt4
+https://www.youtube.com/watch?v=eWZHcb5sk0s
+
+creat slider con swiperjs
+https://www.youtube.com/watch?v=bMy-mnqBtPk
+
+diseño responsive sin media query
+https://www.youtube.com/watch?v=8JC-XyCSys4
+
+its baby is called 
+
 
 flexbox
 https://www.youtube.com/watch?v=Y6yviDqdMc8&list=PLP7LlHfxfuM9km4WOPxtoI7GuuSYOiBam&index=6
@@ -19,4 +43,6 @@ https://www.youtube.com/watch?v=IKema5G0XZ0
 pagina web desde cero, con flexbox y grid
 https://www.youtube.com/watch?v=ADbxRybIpH0&list=PL9T-KKyKXNClKYVq2vwjIXzn9wyNs3XtC
 
+guia completa de CSS Grid
+https://www.youtube.com/watch?v=iKdwZ91Q4L8
 

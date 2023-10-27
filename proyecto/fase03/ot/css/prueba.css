@@ -1,0 +1,9 @@
+section img{
+    float: left;
+    margin: 0px 10px;
+}
+
+section{
+    overflow: auto;
+}
+
