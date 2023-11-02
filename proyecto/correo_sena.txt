@@ -1,3 +1,9 @@
+376.035 2.0 %
+1 12 cuota
+2 24 cuota
+
+
+
 para ingresar al correo sena, debo entrar al link:
 https://www.office.com
 

@@ -1,10 +1,28 @@
 criterio que se debe tener en cuenta para la realizacion del
 software:
 
+video de grid completo
+https://www.twitch.tv/videos/1965892814?filter=archives&sort=time
+
+llamra varias paginas desde una principal uando php o react
+https://www.youtube.com/watch?v=3S_FKLBjOsI
+
+curso completo de react de manera practica
+https://www.youtube.com/watch?v=wFnQiZmca5A
+
+hay que agregar la extension en visual studio code simple React snippets 
+
+
 https://cmc-latam.com/2021/09/21/guia-para-un-software-de-gestion-de-ordenes-de-trabajo/
 
 video de orden de trabajo realizado en encuador
 https://www.youtube.com/watch?v=7BKX7jI-soU
+https://www.youtube.com/watch?v=OflIULyBv_0
+
+
+menu collapse
+https://www.youtube.com/watch?v=iFIAQol9mGU
+https://www.youtube.com/watch?v=nvh51c4UfmM
 
 ---------------------
 becas con puntaje del icfes
