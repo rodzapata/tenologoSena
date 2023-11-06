@@ -8,7 +8,6 @@
       rel="stylesheet"
       href="libreria/bootstrap-5.3.2/css/bootstrap.min.css"
     />
-    <link rel="stylesheet" href="css/style.css" />
     <script src="libreria/bootstrap-5.3.2/js/bootstrap.bundle.min.js"></script>
   </head>
 
@@ -57,7 +56,36 @@
     </nav>
 
     <div class="container">
-      <!-- <img src="img/fondo2.jpg" alt="" with="100%" /> -->
+      <form action="" class="row g-3 mt-3">
+        <h3 class="bg-primary text-white">Tecnicos</h3>
+        <div class="col-4">
+          <label for="cedulaInput" class="form-label">Cedula</label>
+          <input type="text" class="form-control" id="cedulaInput" />
+        </div>
+        <div class="col-8">
+          <label for="nombreInput" class="form-label">nombre</label>
+          <input type="text" class="form-control" id="nombreInput" />
+        </div>
+        <div class="col-12">
+          <label for="direccionInput" class="form-label">direccion</label>
+          <input type="text" class="form-control" id="direccionInput" />
+        </div>
+        <div class="col-6">
+          <label for="celularInput" class="form-label">Celular </label>
+          <input type="text" class="form-control" id="celularInput" />
+        </div>
+        <div class="col-6">
+          <label for="fechaInput" class="form-label"
+            >Fecha de Nacimiento
+          </label>
+          <input type="date" class="form-control" id="fechaInput" />
+        </div>
+
+        <div class="col-12">
+          <button class="btn btn-primary">Guardar</button>
+          <button class="btn btn-primary">Cancelar</button>
+        </div>
+      </form>
     </div>
   </body>
 </html>

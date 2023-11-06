@@ -8,7 +8,6 @@
       rel="stylesheet"
       href="libreria/bootstrap-5.3.2/css/bootstrap.min.css"
     />
-    <link rel="stylesheet" href="css/style.css" />
     <script src="libreria/bootstrap-5.3.2/js/bootstrap.bundle.min.js"></script>
   </head>
 
@@ -57,7 +56,49 @@
     </nav>
 
     <div class="container">
-      <!-- <img src="img/fondo2.jpg" alt="" with="100%" /> -->
+      <form action="" class="row g-3 mt-3">
+        <h3 class="bg-primary text-white">Equipos</h3>
+        <div class="col-12">
+          <label for="codigoInput" class="form-label">codigo</label>
+          <input type="text" class="form-control" id="codigoInput" />
+        </div>
+        <div class="col-12 g-3 mt-3">
+          <label for="tipoEquipoSel" class="form-label">tipo de equipo</label>
+          <select id="tipoEquipoSel" class="form-select">
+            <option value="split">split</option>
+            <option value="ventana">ventana</option>
+            <option value="chiller">chiler</option>
+          </select>
+        </div>
+        <div class="col-12 g-3 mt-3">
+          <label for="marcaSel" class="form-label">marca</label>
+          <select id="marcaSel" class="form-select">
+            <option value="york">york</option>
+            <option value="carrier">carrier</option>
+            <option value="lgr">lg</option>
+          </select>
+        </div>
+        <div class="col-12 g-3 mt-3">
+          <label for="refrigeranteSel" class="form-label">refrigerante</label>
+          <select id="refrigeranteSel" class="form-select">
+            <option value="r-22">r-22</option>
+            <option value="r-40">r-40</option>
+          </select>
+        </div>
+        <div class="col-6">
+          <label for="descripInput" class="form-label">Descripcion </label>
+          <input type="text" class="form-control" id="descripInput" />
+        </div>
+        <div class="col-6">
+          <label for="garantiaInput" class="form-label">vence garantia</label>
+          <input type="date" class="form-control" id="garantiaInput" />
+        </div>
+
+        <div class="col-12">
+          <button class="btn btn-primary">Guardar</button>
+          <button class="btn btn-primary">Cancelar</button>
+        </div>
+      </form>
     </div>
   </body>
 </html>
