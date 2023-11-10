@@ -1,3 +1,17 @@
+guia para aprender programacion de forma autodidacta
+https://www.youtube.com/watch?v=HUMCjQufH6s
+
+https://www.theodinproject.com/
+https://roadmap.sh/
+https://roadmap.sh/javascript
+https://www.frontendmentor.io/
+
+-------------------
+ingles para desarrolladores:
+https://www.youtube.com/watch?v=WuMD6Tjispk&list=PLNrLTRCLIL9vylwoUuMRGrfK2m1GDMc9D&index=1
+
+
+
 criterio que se debe tener en cuenta para la realizacion del
 software:
 
@@ -29,7 +43,6 @@ becas con puntaje del icfes
 https://becas.news/becas-para-el-extranjero/becas-con-el-icefes/
 
 ------
-
 
 
 93093032126
