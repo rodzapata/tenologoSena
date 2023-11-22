@@ -1,0 +1,1 @@
+create table `prueba`.`clientes` (    `cedula` bigint   NOT NULL ,  `nombre` varchar (30)   NULL  , PRIMARY KEY ( `cedula` )  )type=InnoDB
