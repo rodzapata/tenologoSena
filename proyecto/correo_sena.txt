@@ -1,9 +1,39 @@
-376.035 2.0 %
-1 12 cuota
-2 24 cuota
+para entrar a territorio SENA
+https://sena.territorio.la/index.php?login=true
+
+('Alberto Mores','Colon 123','4234567');
+('Juan Torres','Avellaneda 135','4458787');
+
+UPDATE libreta set nombre='Rodney Zapata' where telefono='4234567';
+UPDATE libreta set nombre='Cecilia Cantillo' where telefono='4458787';
+
+13 
+22 febrero 6:00 p.m
+
+INSERT INTO `libreta`(`nombre`, `domicilio`, `telefono`) VALUES ('Alberto Mores','Colon 123','4234567');
+INSERT INTO `libreta`(`nombre`, `domicilio`, `telefono`) VALUES ('Juan Torres','Avellaneda 135','4458787');
+
+INSERT INTO `libreta`(`nombre`, `domicilio`, `telefono`) 
+VALUES ('Juan Miguel','kra 5B 10','1079912455'),
+('Samuel David','Calle 10','1044623794'),
+('Mileidys Torres','Calle 30','22354154'),
+('Jazmin Morales','Calle 45','72541898'),
+('kevin muñoz','via 40','74658987');
 
 
+para eliminar el servicio de mysql
+dentro de cmd se escribe
 
+sc delete mysql
+
+migrar base de datos de sqlserver a mysql
+https://www.youtube.com/watch?v=2UnC-XNDFSI
+
+link de rect native para conectar con celular android
+https://www.youtube.com/watch?v=8LiRxjxqglY
+
+
+------------------
 para ingresar al correo sena, debo entrar al link:
 https://www.office.com
 
