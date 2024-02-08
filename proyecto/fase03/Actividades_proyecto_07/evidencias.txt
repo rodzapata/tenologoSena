@@ -1,0 +1,2 @@
+GA7-220501096-AA1-EV05 herramientas de versionamiento (GIT) instalada y configurada.
+GA7-220501096-AA2-EV02 módulos de software codificados y probados
