@@ -1,6 +1,13 @@
 para entrar a territorio SENA
 https://sena.territorio.la/index.php?login=true
 
+para ingresar al correo sena, debo entrar al link:
+https://www.office.com
+
+correo: rodney.zapata@soy.sena.edu.co
+-------
+
+
 ('Alberto Mores','Colon 123','4234567');
 ('Juan Torres','Avellaneda 135','4458787');
 
@@ -51,11 +58,6 @@ https://www.tutorialesprogramacionya.com/javascriptya/#google_vignette
 	
 
 ------------------
-para ingresar al correo sena, debo entrar al link:
-https://www.office.com
-
-correo: rodney.zapata@soy.sena.edu.co
--------
 pronunciacion en simple palabras:
 https://www.youtube.com/watch?v=kLVbM8JeGUU
 
