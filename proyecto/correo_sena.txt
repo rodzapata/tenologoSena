@@ -6,7 +6,13 @@ https://www.office.com
 
 correo: rodney.zapata@soy.sena.edu.co
 -------
+Grabación Sesion sincronica (Etica), día 15 de febrero de 2024.
 
+Temas: 
+
+GA9-240201526-AA1-EV01: Taller de reflexión escrita. Caso Malala
+GA9-240201526-AA2-EV01: Video presentación. Proyecto de vida
+------
 
 ('Alberto Mores','Colon 123','4234567');
 ('Juan Torres','Avellaneda 135','4458787');
