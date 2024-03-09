@@ -22,6 +22,15 @@ Temas:
 
 GA9-240201526-AA1-EV01: Taller de reflexión escrita. Caso Malala
 GA9-240201526-AA2-EV01: Video presentación. Proyecto de vida
+
+GA9-240201526-AA5-EV01: Mapa mental. Hitos del conflicto armado en Colombia en los últimos 50 años
+GA9-240201526-AA6-EV01: Documento colaborativo. Solución del caso
+link de guia mapa mental 50 años del conflicto armando
+https://coggle.it/diagram/ZOgZ4uut86Ir_daA/t/ga9-240201526-aa5-ev01-mapa-mental-adso-ficha-2627052
+
+GA6-230101507-AA4-EV01: folleto de lesiones más comunes en el trabajo o vida cotidiana, y la importancia de las pausas activas
+GA8-220601501-AA1-EV01: cuestionario sobre opciones de solución a situaciones que se presentan en el contexto ambiental y del SST
+GA8-220601501-AA2-EV01: Presentación sobre las estrategias para la prevención y control de los impactos ambientales, accidentes y enfermedades laborales (ATEL)
 ------
 
 ('Alberto Mores','Colon 123','4234567');
