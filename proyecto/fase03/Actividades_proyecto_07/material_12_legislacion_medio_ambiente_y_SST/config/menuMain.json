@@ -1,0 +1,124 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "introduccion",
+    "title": "Introduccion",
+    "breadcrumb": ["Inicio","Introduccion"],
+    "path": "pages/introduccion.html"
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-1",
+    "title": "1. Legislación en medio ambiente, seguridad y salud en el trabajo",
+    "breadcrumb": ["Inicio","tema 1"],
+    "path": "pages/tema-1.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.1 Legislación en materia de prevención y riesgos laborales",
+        "anchor": "tema-11"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.2 Antecedentes de políticas públicas y legislación ambiental",
+        "anchor": "tema-12"
+      }
+    ]
+  },
+  { 
+    "id": 3,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-2",
+    "title": "2. Herramientas para la gestión de la seguridad y salud en el trabajo",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/tema-2.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.1 Responsabilidades de los trabajadores",
+        "anchor": "tema-21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.2 Comunicación",
+        "anchor": "tema-22"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.3 Identificación de peligros",
+        "anchor": "tema-23"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.4 Prevención preparación y respuesta ante emergencias",
+        "anchor": "tema-24"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.5 Participación en reporte de incidentes, accidentes de trabajo y enfermedades laborales",
+        "anchor": "tema-25"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.6 Capacitación en SG-SST",
+        "anchor": "tema-26"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.7 Apoyo a la mejora continua",
+        "anchor": "tema-27"
+      }
+    ]
+  },
+  { 
+    "id": 4,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-3",
+    "title": "3. Herramientas para la gestión de medio ambiente",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/tema-3.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.1. Evaluación de impacto ambiental",
+        "anchor": "tema-31"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.2. Acciones de prevención, mitigación, corrección y compensación ambiental",
+        "anchor": "tema-32"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.3. Sistema de gestión ambiental",
+        "anchor": "tema-33"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.4. Mejora continua y ambiente",
+        "anchor": "tema-34"
+      }
+    ]
+  }
+]

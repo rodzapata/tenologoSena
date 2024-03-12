@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="708.5" height="809" viewBox="0 0 708.5 809">
+  <g id="Grupo_29200" data-name="Grupo 29200" transform="translate(-552.5 -9712)">
+    <line id="Línea_85" data-name="Línea 85" y2="58" transform="translate(960 10477) rotate(180)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Línea_84" data-name="Línea 84" y2="58" transform="translate(1184 10477) rotate(180)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Línea_81" data-name="Línea 81" x1="48" transform="translate(1075 10300)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Línea_79" data-name="Línea 79" x1="186" transform="translate(799 10269)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Línea_80" data-name="Línea 80" x1="169" transform="translate(799 10320)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Línea_73" data-name="Línea 73" y2="80" transform="translate(960 10125)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Línea_69" data-name="Línea 69" y2="137" transform="translate(960 9803)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="Rectángulo_5827" data-name="Rectángulo 5827" transform="translate(830 9838)" fill="#b8e3fe" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="260" height="53" rx="26.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="259" height="52" rx="26" fill="none"/>
+    </g>
+    <text id="Disciplina" transform="translate(830 9854)" fill="#4d1c0d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-37.969" y="19">Disciplina</tspan></text>
+    <line id="Línea_70" data-name="Línea 70" x1="322" transform="translate(799 9952)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="Rectángulo_5828" data-name="Rectángulo 5828" transform="translate(830 9924)" fill="#b8e3fe" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="260" height="53" stroke="none"/>
+      <rect x="0.5" y="0.5" width="259" height="52" fill="none"/>
+    </g>
+    <text id="PREVENCIÓN" transform="translate(830 9940)" fill="#4d1c0d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-53.336" y="19">PREVENCIÓN</tspan></text>
+    <line id="Línea_71" data-name="Línea 71" y2="161" transform="translate(799 9951)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Línea_72" data-name="Línea 72" y2="161" transform="translate(1121 9951)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="Rectángulo_5829" data-name="Rectángulo 5829" transform="translate(659 9996)" fill="#b8e3fe" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="260" height="53" stroke="none"/>
+      <rect x="0.5" y="0.5" width="259" height="52" fill="none"/>
+    </g>
+    <text id="LESIONES" transform="translate(659 10012)" fill="#4d1c0d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-38.817" y="19">LESIONES</tspan></text>
+    <g id="Rectángulo_5830" data-name="Rectángulo 5830" transform="translate(1001 9996)" fill="#b8e3fe" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="260" height="53" stroke="none"/>
+      <rect x="0.5" y="0.5" width="259" height="52" fill="none"/>
+    </g>
+    <text id="ENFERMEDADES" transform="translate(1001 10012)" fill="#4d1c0d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-65.791" y="19">ENFERMEDADES</tspan></text>
+    <g id="Rectángulo_5831" data-name="Rectángulo 5831" transform="translate(659 10085)" fill="#b8e3fe" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="602" height="53" stroke="none"/>
+      <rect x="0.5" y="0.5" width="601" height="52" fill="none"/>
+    </g>
+    <text id="CAUSADAS_POR_LAS_CONDICIONES_DE_TRABAJO" data-name="CAUSADAS POR LAS CONDICIONES DE TRABAJO" transform="translate(676 10101)" fill="#4d1c0d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-195.785" y="19">CAUSADAS POR LAS CONDICIONES DE TRABAJO</tspan></text>
+    <g id="Rectángulo_5832" data-name="Rectángulo 5832" transform="translate(659.5 10167)" fill="#b8e3fe" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="601" height="53" stroke="none"/>
+      <rect x="0.5" y="0.5" width="600" height="52" fill="none"/>
+    </g>
+    <text id="PROTECCIÓN_Y_PROMOCIÓN_DE_LA_SALUD_DE_LOS_TRABAJADORES" data-name="PROTECCIÓN Y PROMOCIÓN DE LA SALUD DE LOS TRABAJADORES" transform="translate(676 10183)" fill="#4d1c0d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-269.53" y="19">PROTECCIÓN Y PROMOCIÓN DE LA SALUD DE LOS TRABAJADORES</tspan></text>
+    <line id="Línea_74" data-name="Línea 74" x1="154" transform="translate(554 9754)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Línea_75" data-name="Línea 75" y2="547" transform="translate(554 9753)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="Rectángulo_5826" data-name="Rectángulo 5826" transform="translate(659 9712)" fill="#104a71" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="602" height="91" rx="45.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="601" height="90" rx="45" fill="none"/>
+    </g>
+    <text id="Seguridad_y_Salud_en_el_Trabajo" data-name="Seguridad y Salud en el Trabajo" transform="translate(724.5 9740)" fill="#fff" font-size="28" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-206.842" y="30">Seguridad y Salud en el Trabajo</tspan></text>
+    <line id="Línea_76" data-name="Línea 76" x1="122" transform="translate(554 10300)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="Rectángulo_5833" data-name="Rectángulo 5833" transform="translate(659.5 10254)" fill="#b8e3fe" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="154.5" height="99" stroke="none"/>
+      <rect x="0.5" y="0.5" width="153.5" height="98" fill="none"/>
+    </g>
+    <text id="Tiene_por_objeto_MEJORAR" data-name="Tiene por objeto
+MEJORAR" transform="translate(676 10269)" fill="#4d1c0d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-37.56" y="19">Tiene por </tspan><tspan x="-25.774" y="43">objeto</tspan><tspan font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-42.53" y="67">MEJORAR</tspan></tspan></text>
+    <g id="Rectángulo_5834" data-name="Rectángulo 5834" transform="translate(830 10254)" fill="#b8e3fe" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="122" height="27" stroke="none"/>
+      <rect x="0.5" y="0.5" width="121" height="26" fill="none"/>
+    </g>
+    <text id="Condiciones" transform="translate(830 10257)" fill="#4d1c0d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-48.647" y="19">Condiciones</tspan></text>
+    <g id="Rectángulo_5835" data-name="Rectángulo 5835" transform="translate(830 10293)" fill="#b8e3fe" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="122" height="60" stroke="none"/>
+      <rect x="0.5" y="0.5" width="121" height="59" fill="none"/>
+    </g>
+    <text id="Medio_Ambiente" data-name="Medio
+Ambiente" transform="translate(830 10300)" fill="#4d1c0d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-25.541" y="19">Medio</tspan><tspan x="-38.584" y="43">Ambiente</tspan></text>
+    <g id="Rectángulo_5836" data-name="Rectángulo 5836" transform="translate(968 10254)" fill="#b8e3fe" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="122" height="99" stroke="none"/>
+      <rect x="0.5" y="0.5" width="121" height="98" fill="none"/>
+    </g>
+    <text id="de_trabajo" data-name="de 
+trabajo" transform="translate(984.5 10281)" fill="#4d1c0d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-10.006" y="19">de </tspan><tspan x="-28.081" y="43">trabajo</tspan></text>
+    <g id="Rectángulo_5837" data-name="Rectángulo 5837" transform="translate(1106 10254)" fill="#b8e3fe" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="154.5" height="99" stroke="none"/>
+      <rect x="0.5" y="0.5" width="153.5" height="98" fill="none"/>
+    </g>
+    <text id="SALUD_EN_EL_TRABAJO" data-name="SALUD EN
+EL TRABAJO" transform="translate(1122.5 10281)" fill="#4d1c0d" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-43.321" y="19">SALUD EN</tspan><tspan x="-52.625" y="43">EL TRABAJO</tspan></text>
+    <line id="Línea_77" data-name="Línea 77" y2="44" transform="translate(1183 10353)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Línea_78" data-name="Línea 78" x1="92" transform="translate(1090 10397)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Línea_82" data-name="Línea 82" y2="58" transform="translate(746 10477) rotate(180)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Línea_83" data-name="Línea 83" x1="436.5" transform="translate(1183.5 10419) rotate(180)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="Rectángulo_5838" data-name="Rectángulo 5838" transform="translate(830 10382)" fill="#b8e3fe" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="260" height="58" stroke="none"/>
+      <rect x="0.5" y="0.5" width="259" height="57" fill="none"/>
+    </g>
+    <text id="Promoción_y_Mantenimiento" data-name="Promoción y Mantenimiento" transform="translate(846.5 10397)" fill="#4d1c0d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-113.295" y="19">Promoción y Mantenimiento</tspan></text>
+    <g id="Rectángulo_5839" data-name="Rectángulo 5839" transform="translate(660 10463)" fill="#104a71" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="170" height="58" stroke="none"/>
+      <rect x="0.5" y="0.5" width="169" height="57" fill="none"/>
+    </g>
+    <text id="Físico" transform="translate(676.5 10481)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-22.003" y="19">Físico</tspan></text>
+    <g id="Rectángulo_5840" data-name="Rectángulo 5840" transform="translate(875 10463)" fill="#104a71" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="170" height="58" stroke="none"/>
+      <rect x="0.5" y="0.5" width="169" height="57" fill="none"/>
+    </g>
+    <text id="Mental" transform="translate(891.5 10481)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-27.69" y="19">Mental</tspan></text>
+    <g id="Rectángulo_5841" data-name="Rectángulo 5841" transform="translate(1090 10463)" fill="#104a71" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="170" height="58" stroke="none"/>
+      <rect x="0.5" y="0.5" width="169" height="57" fill="none"/>
+    </g>
+    <text id="Social" transform="translate(1106.5 10481)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-23.15" y="19">Social</tspan></text>
+  </g>
+</svg>

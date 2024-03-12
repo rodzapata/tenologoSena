@@ -43,6 +43,8 @@ GA6-230101507-AA4-EV01: folleto de lesiones más comunes en el trabajo o vida cot
 GA8-220601501-AA1-EV01: cuestionario sobre opciones de solución a situaciones que se presentan en el contexto ambiental y del SST
 GA8-220601501-AA2-EV01: Presentación sobre las estrategias para la prevención y control de los impactos ambientales, accidentes y enfermedades laborales (ATEL)
 ------
+ejemplo de diapositivas en Prezi
+https://prezi.com/p/eansudtfntoj/ga8-220601501-aa2-ev01/
 
 ('Alberto Mores','Colon 123','4234567');
 ('Juan Torres','Avellaneda 135','4458787');
