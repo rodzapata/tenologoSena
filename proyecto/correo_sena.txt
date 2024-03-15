@@ -21,7 +21,12 @@ curso de ingles
 https://www.aprenderinglesrapidoyfacil.com/curso-gratis-de-pronunciacion-del-ingles/
 --------------
 Grabación Sesion sincronica (Etica), día 15 de febrero de 2024.
+----trucos excel
+filtrar: https://www.youtube.com/watch?v=KtCswNPgeJc
+rangos unicos: https://www.youtube.com/watch?v=KtCswNPgeJc
+=LAMBDA(x, x*2)(5)
 
+-----
 Temas: 
 
 GA9-240201526-AA1-EV01: Taller de reflexión escrita. Caso Malala
@@ -45,6 +50,9 @@ GA8-220601501-AA2-EV01: Presentación sobre las estrategias para la prevención y 
 ------
 ejemplo de diapositivas en Prezi
 https://prezi.com/p/eansudtfntoj/ga8-220601501-aa2-ev01/
+https://prezi.com/p/zbxzwtvogoe0/ga8-220601501-aa2-ev01-presentacion-sobre-las-estrategias-para-la-prevencion-y-control-de-los-impactos-ambientales-accidentes-y-enfermedades-laborales-atel/
+video donde se explica como utiliza prezi
+https://www.youtube.com/watch?v=G2K1ei61q4s
 
 ('Alberto Mores','Colon 123','4234567');
 ('Juan Torres','Avellaneda 135','4458787');
