@@ -42,11 +42,22 @@ GA9-240201526-AA5-EV01: Mapa mental. Hitos del conflicto armado en Colombia en l
 GA9-240201526-AA6-EV01: Documento colaborativo. Solución del caso
 GA9-240201526-AA6-EV01
 https://cepaz.org/articulos/leccion-de-paz-sudafrica/
-	
 
+GA8-220601501-AA3-EV01: Mapa mental respecto a los planes y acciones establecidos en medio ambiente y SST
+GA8-220601501-AA4-EV01: Video expositivo sobre oportunidades de mejora en medio ambiente y SST
+Instructora Transversal: Maria Isabel Alegria
+---------
+GA9-240201526-AA3-EV01: Diagrama de sistemas. Relación del individuo con el entorno
+GA9-240201526-AA4-EV01: Ejemplo de una marca sostenible que cumpla con TRIPLE BOTTOM LINE
+
+Instructora Transversal: Sonia Yanet Betancourt
+	
+----------
 GA6-230101507-AA4-EV01: folleto de lesiones más comunes en el trabajo o vida cotidiana, y la importancia de las pausas activas
 GA8-220601501-AA1-EV01: cuestionario sobre opciones de solución a situaciones que se presentan en el contexto ambiental y del SST
 GA8-220601501-AA2-EV01: Presentación sobre las estrategias para la prevención y control de los impactos ambientales, accidentes y enfermedades laborales (ATEL)
+Instructora Transversal: Maria Isabel Alegria
+
 ------
 ejemplo de diapositivas en Prezi
 https://prezi.com/p/eansudtfntoj/ga8-220601501-aa2-ev01/
@@ -73,6 +84,8 @@ VALUES ('Juan Miguel','kra 5B 10','1079912455'),
 ('Jazmin Morales','Calle 45','72541898'),
 ('kevin muñoz','via 40','74658987');
 
+pagina para buscar empleo como programador Java
+https://www.glassdoor.com.mx/Empleo/new-zealand-java-empleos-SRCH_IL.0,11_IN186_KO12,16.htm
 
 para eliminar el servicio de mysql
 dentro de cmd se escribe
