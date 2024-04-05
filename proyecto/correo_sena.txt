@@ -1,5 +1,12 @@
 para entrar a territorio SENA
 https://sena.territorio.la/index.php?login=true
+
+nueva plataforma:
+https://zajuna.sena.edu.co/
+entrenamiento en la pagina oficial de java
+https://mylearn.oracle.com/ou/learning-path/java-explorer/79726/
+
+
  Acuerdo de paz Gobierno-CRS
 Pactos de paz y convivencia con las MP y el MIR COAR
 Acuerdo de paz Gobierno-FARC EP
@@ -24,6 +31,18 @@ linkedln
 glassdoor
 indeed
 --------------
+como crear Snippets en Visual Studio 2022
+
+https://www.youtube.com/watch?v=nq7nxphxPlc
+pagina que convierte un Json en una clase de C#
+https://json2csharp.com/
+
+curso javascript junior
+https://www.youtube.com/watch?v=z95mZVUcJ-E&t=2950s
+curso javascrip intermedio
+lista de reproducion de todos los cursos:
+https://www.youtube.com/playlist?list=PLE8uP447fYpgOwKgbypiCGSz7veY2MLGb
+----
 Grabación Sesion sincronica (Etica), día 15 de febrero de 2024.
 ----trucos excel
 filtrar: https://www.youtube.com/watch?v=KtCswNPgeJc
