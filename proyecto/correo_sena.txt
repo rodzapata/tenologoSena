@@ -1,3 +1,30 @@
+video de api en .net 8
+https://www.youtube.com/watch?v=ONm1dwMGyFU
+
+dotnet new console --framework net8.0 --use-program-main -n TokenV03
+
+----------------
+actividades que mando el instructor Gustavo
+GA7-220501096-AA1-EV05: Herramientas de versionamiento (GIT) instalada y configurada.
+GA7-220501096-AA4-EV03: Componente frontend del proyecto formativo y proyectos de clase
+GA7-220501096-AA5-EV03: Diseño y desarrollo de servicios web - proyecto 
+GA7-220501096-AA2-EV02: módulos de software codificados y probados 
+
+GA8-220601501-AA1-EV01: cuestionario sobre opciones de solución a situaciones que se presentan en el contexto ambiental y del SST
+GA8-220601501-AA2-EV01: Presentación sobre las estrategias para la prevención y control de los impactos ambientales, accidentes y enfermedades laborales (ATEL) 
+GA8-220601501-AA3-EV01: Mapa mental respecto a los planes y acciones establecidos en medio ambiente y SST 
+GA8-220601501-AA4-EV01: Video expositivo sobre oportunidades de mejora en medio ambiente y SST 
+
+GA9-240201526-AA1-EV01: Taller de reflexión escrita. Caso Malala 
+GA9-240201526-AA2-EV01: Video presentación. Proyecto de vida 
+GA9-240201526-AA3-EV01: Diagrama de sistemas. Relación del individuo con el entorno 
+GA9-240201526-AA4-EV01: Ejemplo de una marca sostenible que cumpla con TRIPLE BOTTOM LINE 
+GA9-240201526-AA5-EV01: Mapa mental. Hitos del conflicto armado en Colombia en los últimos 50 años 
+GA9-240201526-AA6-EV01: Documento colaborativo. Solución del caso
+
+--------
+
+
 para entrar a territorio SENA
 https://sena.territorio.la/index.php?login=true
 
