@@ -2,13 +2,29 @@ video de api en .net 8
 https://www.youtube.com/watch?v=ONm1dwMGyFU
 
 dotnet new console --framework net8.0 --use-program-main -n TokenV03
+
+para editar PDF https://www.sejda.com/es/pdf-editor
+
 series
 https://hackstore.rs/series/
 opensubtitles.org
+
+https://hackstore.rs/series/sonic-prime-2022/
+contraseña: hackstore.ac
+https://hackstore.rs/episodio/sonic-prime-1x1/
+
+https://paste.compucalitv.pro/?v=kGJ
+contraseña: www.compucalitv.pro
+
+https://www.mediafire.com/file/qp27de03wpr43vg/NKCS1.part3.rar/file
+
 https://hackstore.rs/episodio/the-walking-dead-sobrevivientes-1x5/
 https://hackstore.rs/series/fallout-2024/
 https://hackstore.rs/series/halo-2022/
 https://hackstore.rs/series/breaking-bad-2008/
+
+FALLOT72
+https://paste.compucalitv.pro/?v=kjk
 
 ----------------
 actividades que mando el instructor Gustavo
