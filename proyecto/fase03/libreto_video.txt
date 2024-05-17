@@ -1,11 +1,11 @@
-Oportunidad de mejora en el medio ambiente y en Salud y Seguridad en el Trabajo
+Oportunidad de mejora en el medio ambiente y en la Salud y Seguridad en el Trabajo
 presentado por Rodney Zapata a la instrutora Maria Isabel Alegria.
 Ficha 2675810 del programa Analisis y Desarrrollo de Software
 
 
 tanto El medio ambiente como en la seguridad y salud en el trabajo (SST) son áreas cruciales que requieren atención constante para mejorar la sostenibilidad y el bienestar de las personas y el planeta. Aquí hay algunas oportunidades de mejora en estas áreas:
 
-en el Medio Ambiente podemos :
+en el Medio Ambiente podemos encontrar :
 1. cambiarnos a energias renovables,
 2. aprender a gestionar los residuos,
 3. conservar la biodiversidad
@@ -21,13 +21,15 @@ La energía eólica es aquella que se obtiene directamente de la fuerza del vien
 
 A pesar de sus ventajas tambien presenta algunos inconvenientes como:
 
-controlar la velocidad del viento:
+1. controlar la velocidad del viento:
 Los aerogeneradores solo funcionan correctamente con ráfagas de viento entre los 10 y los 40 km/h. A velocidades menores la energía no resulta rentable y a mayores supone un riesgo físico para la estructura, ya que la turbina no lo podría soportar y se provocarían daños en la estructura. De esta manera, haría falta modificar las aspas y desconectar el aerogenerador.
 
-No es posible almacenarla
+2.No es posible almacenarla
 sino que debe ser consumida de manera inmediata cuando se produce. Eso hace que no pueda ofrecer una alternativa completa y debe ser completada con otro tipo de
 energia como la solar o la hidraulica.
  
+3. afesta a las avez y los murcielagos:
+cuando están en funcionamiento, las palas o las aspas de los aerogeneradores suponen un peligro para la fauna de aves de la zona, que si durante el vuelo chocan con ellas suelen morir debido al impacto. La especie más afectada son los murciélagos.
 	
 
 En cuanto al uso de la energia solar, tiene una gran cantidad de ventajas como por ejemplo no genera contaminación acústica,  ya que los paneles solares apenas emiten algun sonido  durante su funcionamiento.
@@ -35,4 +37,35 @@ En cuanto al uso de la energia solar, tiene una gran cantidad de ventajas como p
 LA luz solar es abundante y está ampliamento disponible, llegando a todas partes
 inclusive a los lugares donde por su geografia se dificulta el uso de cableado electrico.
 
+----ergonomia
+Mobiliario ajustable: Los escritorios, sillas y otros muebles deben ser ajustables en altura para adaptarse a diferentes usuarios y permitir una postura cómoda.
 
+Monitor y teclado: El monitor debe estar a la altura de los ojos para evitar la tensión en el cuello, y el teclado debe estar a la altura de los codos para mantener una postura neutral.
+
+Silla ergonómica: La silla debe tener un buen soporte lumbar y ser ajustable en altura, inclinación y apoyabrazos para adaptarse a las necesidades individuales.
+
+Iluminación adecuada: La iluminación debe ser suficiente y no producir deslumbramiento en la pantalla del ordenador. Es preferible la luz natural siempre que sea posible.
+
+Organización del espacio: Mantén el espacio de trabajo limpio y ordenado para evitar tropiezos y facilitar el acceso a los elementos necesarios.
+
+Pausas activas: Fomenta el movimiento mediante pausas cortas para estirarse y moverse, reduciendo la fatiga muscular y mejorando la circulación sanguínea.
+
+Dispositivos ergonómicos: Considera el uso de dispositivos ergonómicos como reposapiés, alfombrillas para el ratón con soporte para la muñeca, y soportes para portátiles para mejorar la postura y reducir la tensión.
+
+-----------------
+
+Aquí hay algunas consideraciones importantes:
+
+Ambiente de trabajo saludable: Promover un ambiente de trabajo positivo y de apoyo es fundamental. Esto implica fomentar la comunicación abierta, la colaboración y el respeto entre colegas y directivos.
+
+Equilibrio trabajo-vida: Ayudar a los empleados a mantener un equilibrio saludable entre el trabajo y la vida personal es esencial para prevenir el agotamiento y el estrés. Esto puede incluir políticas de flexibilidad laboral, horarios de trabajo razonables y apoyo para el cuidado de la familia.
+
+Gestión del estrés: Proporcionar recursos y programas para ayudar a los empleados a manejar el estrés es importante. Esto puede incluir capacitación en técnicas de gestión del tiempo,  servicios de asesoramiento y apoyo emocional.
+
+Prevención del acoso y la discriminación: Crear un entorno de trabajo seguro y libre de acoso y discriminación es esencial para proteger la salud mental de los empleados. Esto implica implementar políticas claras y procedimientos para abordar cualquier comportamiento inapropiado.
+
+Apoyo emocional: Ofrecer programas de apoyo emocional y asesoramiento para empleados que estén pasando por dificultades personales o profesionales puede ser de gran ayuda. Esto puede incluir servicios de asesoramiento confidenciales o grupos de apoyo.
+
+Formación y sensibilización: Proporcionar formación y sensibilización sobre salud mental en el lugar de trabajo puede ayudar a reducir el estigma asociado con los problemas de salud mental y fomentar un ambiente de apertura y comprensión.
+
+Participación y consulta: Involucrar a los empleados en la toma de decisiones relacionadas con el bienestar en el trabajo puede ayudar a identificar problemas y encontrar soluciones efectivas.
