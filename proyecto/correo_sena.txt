@@ -1,3 +1,49 @@
+agencia publica de empleo SENA
+https://ape.sena.edu.co/spe-web/spe/login
+
+para entrar a territorio SENA
+https://sena.territorio.la/index.php?login=true
+
+nueva plataforma:
+https://zajuna.sena.edu.co/
+
+repositorio del sena instructor Gustavo
+git clone https://github.com/txvoz/proyecto_adso_809_810
+
+para ingresar al correo sena, debo entrar al link:
+https://www.office.com
+
+correo: rodney.zapata@soy.sena.edu.co
+contraseña: 021975Rod
+
+----tratar de resolver el conflicto de git ---
+https://www.freecodecamp.org/espanol/news/error-failed-to-push-some-refs-to-como-arreglamos-esto-en-git/
+
+--------------
+java web tutorial 
+https://www.youtube.com/watch?v=UzqvGs8zbHA&list=PLSUqL2t8VZCqXW0W6TS0D2Fu5LbvRRFw6
+
+pagina para descargar plantilla de springboot
+https://start.spring.io/
+https://www.youtube.com/watch?v=Pbq1Y3twurw
+
+ejemplo completo de una aplicación hecha en java web por Luisiana
+https://www.youtube.com/watch?v=R1XT4jbz-Gg
+
+listado completo de curso de java web por lusiana
+https://www.youtube.com/playlist?list=PLQxX2eiEaqbzhvlMJZkyFoZpyo33T6rm7
+
+-------
+entrenamiento en la pagina oficial de java
+https://mylearn.oracle.com/ou/learning-path/java-explorer/79726/
+
+
+celular 3126810844
+
+link de video explicativo
+https://www.youtube.com/watch?v=PLuiqA_KGmA
+
+
 video de api en .net 8
 https://www.youtube.com/watch?v=ONm1dwMGyFU
 
@@ -29,9 +75,9 @@ https://paste.compucalitv.pro/?v=kjk
 ----------------
 actividades que mando el instructor Gustavo
 GA7-220501096-AA1-EV05: Herramientas de versionamiento (GIT) instalada y configurada.
+GA7-220501096-AA2-EV02: módulos de software codificados y probados 
 GA7-220501096-AA4-EV03: Componente frontend del proyecto formativo y proyectos de clase
 GA7-220501096-AA5-EV03: Diseño y desarrollo de servicios web - proyecto 
-GA7-220501096-AA2-EV02: módulos de software codificados y probados 
 
 GA8-220601501-AA1-EV01: cuestionario sobre opciones de solución a situaciones que se presentan en el contexto ambiental y del SST
 GA8-220601501-AA2-EV01: Presentación sobre las estrategias para la prevención y control de los impactos ambientales, accidentes y enfermedades laborales (ATEL) 
@@ -48,13 +94,6 @@ GA9-240201526-AA6-EV01: Documento colaborativo. Solución del caso
 --------
 
 
-para entrar a territorio SENA
-https://sena.territorio.la/index.php?login=true
-
-nueva plataforma:
-https://zajuna.sena.edu.co/
-entrenamiento en la pagina oficial de java
-https://mylearn.oracle.com/ou/learning-path/java-explorer/79726/
 
 
  Acuerdo de paz Gobierno-CRS
@@ -66,11 +105,6 @@ link de proyecto de vida
 
 https://www.youtube.com/watch?v=JaxMBBk__pg
 
-para ingresar al correo sena, debo entrar al link:
-https://www.office.com
-
-correo: rodney.zapata@soy.sena.edu.co
-contraseña: 021975Rod
 -------
 impresora: https://www.falabella.com.co/falabella-co/product/125085974/Impresora-Epson-Ecotank-L121-Negra/125085975?exp=linio
 -----
@@ -455,5 +489,6 @@ my compliments to the chef
 I seriously doubt it
 
 
-
+--------hoja de vida ------------
+Analista Programador con experiencia sólida en aplicaciones de inventarios,  tesorería, cartera, proveedores, presupuesto, contabilidad, medios magnéticos, facturacion electronica, soporte de software y hardware. Trabajo con facilidad en compañías que posean culturas y filosofías diversas en la ejecución de los negocios, habilidad  para trabajo en equipo y disponibilidad para viajar. Conocimientos sólidos en Visual FoxPro, bases de datos  nativas de Visual FoxPro, MySql, PostgreSQL, SqlServer, Paquete de Office y cuento con  condiciones para aprender rápidamente cualquier herramienta.
 
