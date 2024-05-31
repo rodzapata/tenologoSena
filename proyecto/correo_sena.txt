@@ -19,7 +19,13 @@ contraseña: 021975Rod
 ----tratar de resolver el conflicto de git ---
 https://www.freecodecamp.org/espanol/news/error-failed-to-push-some-refs-to-como-arreglamos-esto-en-git/
 
+--curso de Docker ----
+https://www.youtube.com/watch?v=5z2kYFG3OfY&list=PLrb1e2Mp6N_tXQryuDVzOq4SLQKqVv1uz
+
 --------------
+proyecto itelij J in english
+https://www.youtube.com/watch?v=dxn5DsMWhGY&list=PLhW3qG5bs-L94pyVnP6YysYQ0_PfvqTQ3&index=2
+
 java web tutorial 
 https://www.youtube.com/watch?v=UzqvGs8zbHA&list=PLSUqL2t8VZCqXW0W6TS0D2Fu5LbvRRFw6
 
