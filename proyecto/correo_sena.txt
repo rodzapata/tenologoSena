@@ -1,3 +1,11 @@
+spring boot DevTools
+Lombok
+conceptos importantes que se debe aprender
+https://bravedeveloper.com/2021/09/01/que-es-rest-restful-api-restful-y-json/
+
+api rest con sprint boot
+https://www.youtube.com/watch?v=klV9hheS86o
+
 agencia publica de empleo SENA
 https://ape.sena.edu.co/spe-web/spe/login
 
