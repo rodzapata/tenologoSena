@@ -1,3 +1,17 @@
+https://newsletter.cuarzo.dev/p/curso-css-desde-cero?utm_source=newsletter.cuarzo.dev&utm_medium=newsletter&utm_campaign=te-doy-la-bienvenida-a-cuarzo-dev
+
+css grid desde cero 
+https://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW
+
+maqueado en ingles
+https://www.youtube.com/watch?v=Rol0-FXOsms&list=PLpwngcHZlPac0R1SCOLMRu6FBZTTuEyF2
+
+Dasboard
+https://www.youtube.com/watch?v=BOF79TAIkYQ
+
+Bootstrap curso completo
+https://www.youtube.com/watch?v=fY_O1Fb-e5Y&list=PLnunbwZjHqMO-JII_HBf5TAzdzaBJP34w
+
 spring boot DevTools
 Lombok
 conceptos importantes que se debe aprender
