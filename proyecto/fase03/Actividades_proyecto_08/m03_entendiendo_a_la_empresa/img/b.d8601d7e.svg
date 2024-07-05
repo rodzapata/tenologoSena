@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="Grupo_24349" data-name="Grupo 24349" transform="translate(-648 -1589)">
+    <circle id="Elipse_504" data-name="Elipse 504" cx="29" cy="29" r="29" transform="translate(654 1595)" fill="#ccfaf3"/>
+    <g id="Elipse_505" data-name="Elipse 505" transform="translate(648 1589)" fill="none" stroke="#5dc2ae" stroke-width="2">
+      <circle cx="35" cy="35" r="35" stroke="none"/>
+      <circle cx="35" cy="35" r="34" fill="none"/>
+    </g>
+    <text id="B" transform="translate(684 1641)" fill="#5dc2ae" font-size="50" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-16.125" y="0">B</tspan></text>
+  </g>
+</svg>

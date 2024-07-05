@@ -1,3 +1,12 @@
+crear un buen prompt en chagpt
+https://www.youtube.com/watch?v=izBLqAobdPs&ab_channel=ArteyAnimacionAcademy
+podcast para programdores:
+https://softwareengineeringdaily.com/2024/06/18/16909/
+
+spring boot
+https://danielme.com/2018/02/21/tutorial-spring-boot-web-spring-data-jpa/
+https://danielme.com/curso-jakarta-ee-indice/
+
 https://newsletter.cuarzo.dev/p/curso-css-desde-cero?utm_source=newsletter.cuarzo.dev&utm_medium=newsletter&utm_campaign=te-doy-la-bienvenida-a-cuarzo-dev
 
 css grid desde cero 
@@ -36,7 +45,7 @@ para ingresar al correo sena, debo entrar al link:
 https://www.office.com
 
 correo: rodney.zapata@soy.sena.edu.co
-contraseña: 021975Rod
+contrase a: 021975Rod
 
 ----tratar de resolver el conflicto de git ---
 https://www.freecodecamp.org/espanol/news/error-failed-to-push-some-refs-to-como-arreglamos-esto-en-git/
@@ -55,7 +64,7 @@ pagina para descargar plantilla de springboot
 https://start.spring.io/
 https://www.youtube.com/watch?v=Pbq1Y3twurw
 
-ejemplo completo de una aplicación hecha en java web por Luisiana
+ejemplo completo de una aplicaci n hecha en java web por Luisiana
 https://www.youtube.com/watch?v=R1XT4jbz-Gg
 
 listado completo de curso de java web por lusiana
@@ -84,11 +93,11 @@ https://hackstore.rs/series/
 opensubtitles.org
 
 https://hackstore.rs/series/sonic-prime-2022/
-contraseña: hackstore.ac
+contrase a: hackstore.ac
 https://hackstore.rs/episodio/sonic-prime-1x1/
 
 https://paste.compucalitv.pro/?v=kGJ
-contraseña: www.compucalitv.pro
+contrase a: www.compucalitv.pro
 
 https://www.mediafire.com/file/qp27de03wpr43vg/NKCS1.part3.rar/file
 
@@ -103,21 +112,21 @@ https://paste.compucalitv.pro/?v=kjk
 ----------------
 actividades que mando el instructor Gustavo
 GA7-220501096-AA1-EV05: Herramientas de versionamiento (GIT) instalada y configurada.
-GA7-220501096-AA2-EV02: módulos de software codificados y probados 
+GA7-220501096-AA2-EV02: m dulos de software codificados y probados 
 GA7-220501096-AA4-EV03: Componente frontend del proyecto formativo y proyectos de clase
-GA7-220501096-AA5-EV03: Diseño y desarrollo de servicios web - proyecto 
+GA7-220501096-AA5-EV03: Dise o y desarrollo de servicios web - proyecto 
 
-GA8-220601501-AA1-EV01: cuestionario sobre opciones de solución a situaciones que se presentan en el contexto ambiental y del SST
-GA8-220601501-AA2-EV01: Presentación sobre las estrategias para la prevención y control de los impactos ambientales, accidentes y enfermedades laborales (ATEL) 
+GA8-220601501-AA1-EV01: cuestionario sobre opciones de soluci n a situaciones que se presentan en el contexto ambiental y del SST
+GA8-220601501-AA2-EV01: Presentaci n sobre las estrategias para la prevenci n y control de los impactos ambientales, accidentes y enfermedades laborales (ATEL) 
 GA8-220601501-AA3-EV01: Mapa mental respecto a los planes y acciones establecidos en medio ambiente y SST 
 GA8-220601501-AA4-EV01: Video expositivo sobre oportunidades de mejora en medio ambiente y SST 
 
-GA9-240201526-AA1-EV01: Taller de reflexión escrita. Caso Malala 
-GA9-240201526-AA2-EV01: Video presentación. Proyecto de vida 
-GA9-240201526-AA3-EV01: Diagrama de sistemas. Relación del individuo con el entorno 
+GA9-240201526-AA1-EV01: Taller de reflexi n escrita. Caso Malala 
+GA9-240201526-AA2-EV01: Video presentaci n. Proyecto de vida 
+GA9-240201526-AA3-EV01: Diagrama de sistemas. Relaci n del individuo con el entorno 
 GA9-240201526-AA4-EV01: Ejemplo de una marca sostenible que cumpla con TRIPLE BOTTOM LINE 
-GA9-240201526-AA5-EV01: Mapa mental. Hitos del conflicto armado en Colombia en los últimos 50 años 
-GA9-240201526-AA6-EV01: Documento colaborativo. Solución del caso
+GA9-240201526-AA5-EV01: Mapa mental. Hitos del conflicto armado en Colombia en los  ltimos 50 a os 
+GA9-240201526-AA6-EV01: Documento colaborativo. Soluci n del caso
 
 --------
 
@@ -168,7 +177,7 @@ api de facture en javascript
 https://api.facture.com.mx/
 
 ----
-Grabación Sesion sincronica (Etica), día 15 de febrero de 2024.
+Grabaci n Sesion sincronica (Etica), d a 15 de febrero de 2024.
 ----trucos excel
 filtrar: https://www.youtube.com/watch?v=KtCswNPgeJc
 rangos unicos: https://www.youtube.com/watch?v=KtCswNPgeJc
@@ -177,8 +186,8 @@ rangos unicos: https://www.youtube.com/watch?v=KtCswNPgeJc
 -----
 Temas: 
 
-GA9-240201526-AA1-EV01: Taller de reflexión escrita. Caso Malala
-GA9-240201526-AA2-EV01: Video presentación. Proyecto de vida
+GA9-240201526-AA1-EV01: Taller de reflexi n escrita. Caso Malala
+GA9-240201526-AA2-EV01: Video presentaci n. Proyecto de vida
 
 mapa mental paso a paso:
 https://www.youtube.com/watch?v=AlghcNDyeVc
@@ -186,8 +195,8 @@ https://www.youtube.com/watch?v=AlghcNDyeVc
 GA9-240201526-AA5-EV01_Mapa_mental_Hitos_del_conflicto_armado_en_Colombia
 
 
-GA9-240201526-AA5-EV01: Mapa mental. Hitos del conflicto armado en Colombia en los últimos 50 años
-GA9-240201526-AA6-EV01: Documento colaborativo. Solución del caso
+GA9-240201526-AA5-EV01: Mapa mental. Hitos del conflicto armado en Colombia en los  ltimos 50 a os
+GA9-240201526-AA6-EV01: Documento colaborativo. Soluci n del caso
 GA9-240201526-AA6-EV01
 https://cepaz.org/articulos/leccion-de-paz-sudafrica/
 
@@ -195,15 +204,15 @@ GA8-220601501-AA3-EV01: Mapa mental respecto a los planes y acciones establecido
 GA8-220601501-AA4-EV01: Video expositivo sobre oportunidades de mejora en medio ambiente y SST
 Instructora Transversal: Maria Isabel Alegria
 ---------
-GA9-240201526-AA3-EV01: Diagrama de sistemas. Relación del individuo con el entorno --presentado y calificado ---
+GA9-240201526-AA3-EV01: Diagrama de sistemas. Relaci n del individuo con el entorno --presentado y calificado ---
 GA9-240201526-AA4-EV01: Ejemplo de una marca sostenible que cumpla con TRIPLE BOTTOM LINE  --presentado y califiado ---
 
 Instructora Transversal: Sonia Yanet Betancourt
 	
 ----------
-GA6-230101507-AA4-EV01: folleto de lesiones más comunes en el trabajo o vida cotidiana, y la importancia de las pausas activas
-GA8-220601501-AA1-EV01: cuestionario sobre opciones de solución a situaciones que se presentan en el contexto ambiental y del SST
-GA8-220601501-AA2-EV01: Presentación sobre las estrategias para la prevención y control de los impactos ambientales, accidentes y enfermedades laborales (ATEL)
+GA6-230101507-AA4-EV01: folleto de lesiones m s comunes en el trabajo o vida cotidiana, y la importancia de las pausas activas
+GA8-220601501-AA1-EV01: cuestionario sobre opciones de soluci n a situaciones que se presentan en el contexto ambiental y del SST
+GA8-220601501-AA2-EV01: Presentaci n sobre las estrategias para la prevenci n y control de los impactos ambientales, accidentes y enfermedades laborales (ATEL)
 Instructora Transversal: Maria Isabel Alegria
 
 ------
@@ -230,7 +239,7 @@ VALUES ('Juan Miguel','kra 5B 10','1079912455'),
 ('Samuel David','Calle 10','1044623794'),
 ('Mileidys Torres','Calle 30','22354154'),
 ('Jazmin Morales','Calle 45','72541898'),
-('kevin muñoz','via 40','74658987');
+('kevin mu oz','via 40','74658987');
 
 pagina para buscar empleo como programador Java
 https://www.glassdoor.com.mx/Empleo/new-zealand-java-empleos-SRCH_IL.0,11_IN186_KO12,16.htm
@@ -318,7 +327,7 @@ https://www.youtube.com/watch?v=GWS3PCBFVgI&list=PLFXdMUVx0U6h4thTVZJJZzkONEpxw_
 
 
 
-palabras que se escriben igual en españo y en ingles
+palabras que se escriben igual en espa o y en ingles
 pero se pronuncian diferentes:
 https://www.youtube.com/watch?v=f-NR_dwZQgg
 
@@ -350,10 +359,10 @@ https://www.edx.org/es/learn/language/universidad-del-rosario-ingles-para-todos-
 
 https://alison.com/es/etiquetar/idioma-ingles
 
-100 palabras que se pronuncian con /æ/
+100 palabras que se pronuncian con / /
 https://www.youtube.com/watch?v=MKUod8NO0g4
 
-pasos para pronuncias la /æ/
+pasos para pronuncias la / /
 https://www.youtube.com/watch?v=LeEK0PGjDG4
 https://www.youtube.com/watch?v=YC-y-tRe5eU
 
@@ -518,5 +527,5 @@ I seriously doubt it
 
 
 --------hoja de vida ------------
-Analista Programador con experiencia sólida en aplicaciones de inventarios,  tesorería, cartera, proveedores, presupuesto, contabilidad, medios magnéticos, facturacion electronica, soporte de software y hardware. Trabajo con facilidad en compañías que posean culturas y filosofías diversas en la ejecución de los negocios, habilidad  para trabajo en equipo y disponibilidad para viajar. Conocimientos sólidos en Visual FoxPro, bases de datos  nativas de Visual FoxPro, MySql, PostgreSQL, SqlServer, Paquete de Office y cuento con  condiciones para aprender rápidamente cualquier herramienta.
+Analista Programador con experiencia s lida en aplicaciones de inventarios,  tesorer a, cartera, proveedores, presupuesto, contabilidad, medios magn ticos, facturacion electronica, soporte de software y hardware. Trabajo con facilidad en compa  as que posean culturas y filosof as diversas en la ejecuci n de los negocios, habilidad  para trabajo en equipo y disponibilidad para viajar. Conocimientos s lidos en Visual FoxPro, bases de datos  nativas de Visual FoxPro, MySql, PostgreSQL, SqlServer, Paquete de Office y cuento con  condiciones para aprender r pidamente cualquier herramienta.
 
