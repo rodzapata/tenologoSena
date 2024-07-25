@@ -3,6 +3,10 @@ el servicio tiene el numero 23000
 
 netstat -oan | find /i "23000"
 y nos muestra los puertos en la empresa es el 61061
+en la casa es 49789
+---
+tutorial de spring boot
+https://www.youtube.com/watch?v=OXdPA2tyNXE
 
 ----para converir clase a json en java
 https://jsonformatter.org/

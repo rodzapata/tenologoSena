@@ -6,6 +6,11 @@ netsh advfirewall firewall add rule name="SQL Puerto alternativo" dir=in localpo
 trabajar con 2 bases de datos al tiempo sqlserver y posgreSQL
 https://www.youtube.com/watch?v=iE_o8viSbkc
 
+podcats subtitulado en ingles
+https://open.spotify.com/show/7was2eefHcQbJQVsV199Gs
+
+https://www.vivirviajaramar.com/paises-baratos-estudiar-europa/
+https://www.vivirviajaramar.com/becas-para-estudiar-en-alemania/#Becas_en_Alemania_para_Colombianos
 
 #properties de postgres
 postgres.datasource.jdbc-url=jdbc:postgresql://localhost:5430/laloponse
