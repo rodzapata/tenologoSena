@@ -1,0 +1,46 @@
+1. Trabajo
+Definición: Actividad humana productiva, realizada a cambio de una remuneración.
+Relaciones:
+Precarización: Proceso por el cual las condiciones laborales se deterioran, afectando la calidad y estabilidad del trabajo.
+Tercerización: Externalización de funciones laborales hacia empresas externas.
+Deslaboralización: Pérdida o disminución de la relación laboral formal, sustitución del empleo estable por formas más precarias de trabajo.
+2. Precarización
+Definición: Reducción de la calidad de las condiciones de trabajo, incluyendo inseguridad laboral, bajos salarios y falta de derechos laborales.
+Relaciones:
+Trabajo: Se presenta como una consecuencia negativa en las condiciones laborales.
+Dignidad Humana: Afecta directamente la dignidad del trabajador, limitando su acceso a condiciones de vida justas y equitativas.
+3. Tercerización
+Definición: Práctica empresarial de delegar ciertas tareas a empresas externas, reduciendo la relación directa entre empleador y empleado.
+Relaciones:
+Precarización: Puede llevar a condiciones laborales menos favorables, al desvincular responsabilidades directas del empleador.
+Deslaboralización: Contribuye a la desaparición de relaciones laborales formales.
+4. Deslaboralización
+Definición: Proceso mediante el cual se debilitan o eliminan los contratos de trabajo estables y formales, aumentando la informalidad laboral.
+Relaciones:
+Trabajo: Reducción del empleo formal, aumento de la informalidad.
+Precarización: Como consecuencia de la pérdida de empleos formales, aumenta la precarización.
+Dignidad Humana: Deslaboralización socava la dignidad humana al despojar a las personas de derechos laborales y seguridad.
+5. Dignidad Humana
+Definición: Principio fundamental que reconoce el valor inherente y los derechos de cada persona.
+Relaciones:
+Trabajo: El trabajo es un medio para el desarrollo de la dignidad humana, al proporcionar sustento y realización personal.
+Precarización: La precarización del trabajo afecta negativamente la dignidad humana.
+Tercerización y Deslaboralización: Estos procesos pueden atentar contra la dignidad humana al debilitar la protección y seguridad laboral.
+Estructura del Mapa Conceptual:
+
+Nodo Central: Trabajo
+Conectado a: Precarización (flecha hacia abajo)
+Conectado a: Dignidad Humana (afectación negativa)
+Conectado a: Tercerización (flecha hacia abajo)
+Conectado a: Precarización
+Conectado a: Deslaboralización
+Conectado a: Deslaboralización (flecha hacia abajo)
+Conectado a: Precarización
+Conectado a: Dignidad Humana (afectación negativa)
+Este mapa conceptual resalta cómo los procesos de tercerización y deslaboralización contribuyen a la precarización laboral y, en consecuencia, afectan la dignidad humana.
+
+
+
+
+
+
