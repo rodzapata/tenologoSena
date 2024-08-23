@@ -1,0 +1,68 @@
+# Violacion de los Derechos del Trabajo
+
+## Sistemas de Proteccion de Derechos Humanos del Trabajo
+
+### OIT (Organizacion Internacional del Trabajo)
+- **Principales Normas**
+  - Convenio 87 sobre Libertad Sindical y Proteccion del Derecho de Sindicacion
+  - Convenio 98 sobre el Derecho de Sindicacion y Negociacion Colectiva
+- **Instrumentos**
+  - Informes y Quejas ante la OIT
+  - Supervisiones y Examenes de los Comites de la OIT
+- **Formas de Accion**
+  - Presentacion de quejas por parte de sindicatos o gobiernos
+  - Uso del procedimiento de libertad sindical
+
+### CIDH (Comision Interamericana de Derechos Humanos)
+- **Principales Normas**
+  - Convencion Americana sobre Derechos Humanos
+  - Protocolo de San Salvador
+- **Instrumentos**
+  - Peticiones individuales ante la CIDH
+  - Medidas cautelares
+- **Formas de Accion**
+  - Presentacion de peticiones individuales
+  - Solicitud de medidas cautelares para proteger a trabajadores en riesgo
+
+### CDP (Comite de Derechos del Pacto Internacional de Derechos Economicos, Sociales y Culturales)
+- **Principales Normas**
+  - Pacto Internacional de Derechos Economicos, Sociales y Culturales (PIDESC)
+- **Instrumentos**
+  - Informes periodicos nacionales
+  - Comunicaciones individuales bajo el Protocolo Facultativo del PIDESC
+- **Formas de Accion**
+  - Presentacion de comunicaciones individuales
+  - Examen de informes periodicos de los Estados
+
+## Mecanismos Legales de Proteccion de los Derechos Laborales
+
+### Derecho de Peticion
+- **Descripcion:** Derecho a solicitar informacion o acciones concretas a las autoridades o empleadores
+- **Pasos:**
+  1. Redaccion formal de la peticion
+  2. Presentacion ante la autoridad competente
+  3. Respuesta obligatoria dentro de los plazos legales
+
+### Accion de Tutela
+- **Descripcion:** Mecanismo rapido para proteger derechos fundamentales vulnerados o amenazados
+- **Pasos:**
+  1. Presentacion de la accion ante un juez
+  2. Analisis y decision judicial en un plazo corto
+  3. Implementacion de la decision para restaurar los derechos
+
+## Creacion de una Organizacion Sindical
+
+### Pasos para la Creacion
+1. **Reunion de Trabajadores:** Convocatoria de una asamblea general de trabajadores interesados
+2. **Elaboracion de Estatutos:** Redaccion de los estatutos que regiran el sindicato
+3. **Eleccion de Representantes:** Designacion de los dirigentes sindicales
+4. **Registro Sindical:** Presentacion de los documentos ante la autoridad laboral para su registro oficial
+
+### Inicio de un Conflicto Colectivo
+
+#### Pliego de Peticiones
+1. **Elaboracion del Pliego:** Redaccion de las demandas y propuestas de los trabajadores
+2. **Presentacion al Empleador:** Entrega formal del pliego al empleador para su analisis
+3. **Negociacion:** Dialogo entre los representantes sindicales y el empleador
+4. **Huelga (si aplica):** Declaracion de huelga si no se llega a un acuerdo
+

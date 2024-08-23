@@ -1,0 +1,18 @@
+GA11-210201501-AA3-EV01
+
+formato mark down, y lo guardamos con extensión .md
+
+edotor.net
+
+https://xmind.app/
+
+
+crear un mapa mental llamado violacion de los derechos del trabajo en formato mark down
+debe tener sistemas de protección de rechos humanos del trabajo (OIT - CIDH - CDP)
+asi como sus principales normas, instrumentos y formas de poner en accion dichos sistemas,
+incluyendo el dercho de petición y la accion de tutela como los pasos de creación
+de una organización sindical y el inicio de un conflicto colectivo (pliego de peticiones)
+el formato no debe incluir tildes
+
+
+puedes escribir el código dot para generar un mapa conceptual

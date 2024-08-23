@@ -1,3 +1,10 @@
+paso a paso jakarta
+https://danielme.com/curso-jakarta-ee-indice/
+programación funcional
+https://programandoenjava.com/streams-en-java-8/
+https://blog.codmind.com/que-es-la-programacion-funcional-en-java/
+
+
 ver el puerto de sqlserver
 xp_readerrorlog 0, 1, N'Server is listening on' 
 
