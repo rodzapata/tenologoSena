@@ -1,3 +1,33 @@
+nueva plataforma:
+https://zajuna.sena.edu.co/
+
+repositorio del sena instructor Gustavo
+git clone https://github.com/txvoz/proyecto_adso_809_810
+
+para ingresar al correo sena, debo entrar al link:
+https://www.office.com
+
+correo: rodney.zapata@soy.sena.edu.co
+contrase a: 021975Rod
+
+Equipo de etapa practica:
+vinculo laboral, pasantía: Manuel Peña (aprobacionep9307@sena.edu.co)
+unidad productiva o proyecto productivo: Angela Ciceri (aciceri@sena.edu.co)
+contrato de aprendizaje: Doris Robles (dwrobles@sena.edu.co)
+
+correo para solicitar carnet del estudiante
+jsolartec@sena.edu.co
+
+Ana paulina vallejo 3225493763
+ Programa Egresados  SENA
+
+correo electrónico egresadosregcauca@sena.edu.co 
+
+----requisito de certificación después de la etapa productiva ---
+hfortega@sena.edu.co
+
+
+-----
 login seguridad en spring boot
 https://cristianruiz93.wordpress.com/
 
@@ -117,17 +147,7 @@ https://ape.sena.edu.co/spe-web/spe/login
 para entrar a territorio SENA
 https://sena.territorio.la/index.php?login=true
 
-nueva plataforma:
-https://zajuna.sena.edu.co/
 
-repositorio del sena instructor Gustavo
-git clone https://github.com/txvoz/proyecto_adso_809_810
-
-para ingresar al correo sena, debo entrar al link:
-https://www.office.com
-
-correo: rodney.zapata@soy.sena.edu.co
-contrase a: 021975Rod
 
 ----tratar de resolver el conflicto de git ---
 https://www.freecodecamp.org/espanol/news/error-failed-to-push-some-refs-to-como-arreglamos-esto-en-git/
