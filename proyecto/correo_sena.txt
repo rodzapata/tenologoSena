@@ -9,6 +9,7 @@ https://www.office.com
 
 correo: rodney.zapata@soy.sena.edu.co
 contrase a: 021975Rod
+nueva contraseña: Rodney$1975.
 
 Equipo de etapa practica:
 vinculo laboral, pasantía: Manuel Peña (aprobacionep9307@sena.edu.co)
