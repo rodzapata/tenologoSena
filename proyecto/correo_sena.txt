@@ -1,3 +1,27 @@
+universidad del magdalena
+
+https://www.unimagdalena.edu.co/PresentacionPrograma/Programa/2
+cronograma de inscripción
+https://admisiones.unimagdalena.edu.co/VistaAdmisiones.jsp?0.7527718055839852=78.38358665160538
+
+---------------
+pagina para consultar empleo en Java y spring boot
+https://www.pragma.co/
+
+
+para solicitar la licencia como estudiante
+https://www.jetbrains.com/community/education/#students
+por donde llenar el formulario de registro
+https://www.jetbrains.com/shop/eform/students
+
+id de la licencia
+KWYYIXBPD2
+
+licencia de intelij 
+
+https://account.jetbrains.com/licenses
+
+-------------------
 nueva plataforma:
 https://zajuna.sena.edu.co/
 
@@ -38,7 +62,8 @@ https://cristianruiz93.wordpress.com/
 -----------------------------
 Solictud autorización terapia Samuel
 
-Gracias por contactarnos, tu solicitud se ha creado exitosamente con el número 24082633232318, con este número puedes consultar el estado de esta solicitud, llamando desde Medellín al 448 61 15 y desde otras ciudades al 018000519519.
+Gracias por contactarnos, tu solicitud se ha creado exitosamente con el número 24082633232318, 
+con este número puedes consultar el estado de esta solicitud, llamando desde Medellín al 448 61 15 y desde otras ciudades al 018000519519.
 
 ---------------------------
 paso a paso jakarta
@@ -46,6 +71,8 @@ https://danielme.com/curso-jakarta-ee-indice/
 programación funcional
 https://programandoenjava.com/streams-en-java-8/
 https://blog.codmind.com/que-es-la-programacion-funcional-en-java/
+
+https://danielme.com/2023/03/09/curso-spring-data-jpa-consultas-jpql-con-query/
 
 índice completo del curso de JavaScript de jonhnatan mircha
 https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA

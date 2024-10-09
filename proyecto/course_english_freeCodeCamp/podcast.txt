@@ -1,0 +1,5 @@
+https://freecodecamp.libsyn.com/
+
+https://freecodecamp.libsyn.com/ep-75-how-an-army-vet-went-from-english-major-to-full-stack-developer
+
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
