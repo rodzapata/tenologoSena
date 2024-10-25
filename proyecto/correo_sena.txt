@@ -1,8 +1,19 @@
+asesora del SENA etapa practica
+Martha Isabel Ordoñez Ardila
+marthaisabelordonezardila@gmail.com
+Celular 315 465 3260
+
+------
 universidad del magdalena
 
 https://www.unimagdalena.edu.co/PresentacionPrograma/Programa/2
 cronograma de inscripción
-https://admisiones.unimagdalena.edu.co/VistaAdmisiones.jsp?0.7527718055839852=78.38358665160538
+https://admisiones.unimagdalena.edu.co/VistaAdmisiones.jsp?0.3652687883433532=75.98133436299447
+
+universidad CUL
+https://ul.edu.co/uleduco/admisiones/procesos-de-admision/procesos-de-admisi%C3%B3n-pregrado.html#proceso-de-admisi%C3%B3n-a-pregrado-programas-profesionales-y-tecn%C3%B3logos
+valor de la inscripción $75.400
+
 
 ---------------
 pagina para consultar empleo en Java y spring boot
