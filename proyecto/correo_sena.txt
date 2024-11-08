@@ -1,3 +1,9 @@
+como crear código limpio en c#
+https://medium.com/@kimwingco/c%C3%B3mo-preparar-tu-entrevista-t%C3%A9cnica-backend-6c4e733ada9e
+EF Core 6 curso completo
+https://www.youtube.com/watch?v=4azrTdMtaO4&list=PLesmOrW3mp4i2RdfsPI5R6o5EVacGuovz
+
+
 pasos para publicar un proyecto en .NET
 https://www.youtube.com/watch?v=54UxOTH0KxU
 
@@ -60,6 +66,8 @@ jsolartec@sena.edu.co
 
 Ana paulina vallejo 3225493763
  Programa Egresados  SENA
+
+SGBA
 
 correo electrónico egresadosregcauca@sena.edu.co 
 solicitu ARL SURA
