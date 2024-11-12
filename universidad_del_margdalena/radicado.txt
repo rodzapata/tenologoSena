@@ -1,0 +1,7 @@
+url: 
+https://solicitudes.unibarranquilla.edu.co/pqrsd/formularioWeb/
+
+radicado=202409000019333
+codigo verificacion:edac2
+
+
