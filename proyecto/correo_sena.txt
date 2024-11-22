@@ -1,3 +1,7 @@
+pasos para el proyecto web en rect empezado con sidebar
+https://www.youtube.com/watch?v=-e3-wtPmGLg
+
+
 como crear código limpio en c#
 https://medium.com/@kimwingco/c%C3%B3mo-preparar-tu-entrevista-t%C3%A9cnica-backend-6c4e733ada9e
 EF Core 6 curso completo
@@ -10,6 +14,7 @@ https://www.youtube.com/watch?v=54UxOTH0KxU
 ----
 asesora del SENA etapa practica
 Martha Isabel Ordoñez Ardila
+correo institucional miordonez@sena.edu.co
 marthaisabelordonezardila@gmail.com
 Celular 315 465 3260
 

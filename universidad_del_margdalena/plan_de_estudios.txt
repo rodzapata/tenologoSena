@@ -1,0 +1,164 @@
+semestre 1
+Calculo diferencial
+Matemáticas discretas
+
+semestre 2
+algebra lineal
+calculo integral
+
+semestre 3
+calculo vectorial
+probabilidad y estadísticas
+
+semestre 4
+ecuaciones diferenciales
+estadística inferencial
+
+semestre 5
+análisis numerico
+matemáticas avanzadas
+
+semestre 6
+física mecánica
+
+semestre 7
+calor y ondas
+
+--------------detalle semetre 1 ----------------
+Cálculo diferencial es una rama de las matemáticas que se centra en el estudio de las tasas de cambio y las pendientes de las curvas. A continuación, te detallo los temas principales que suelen incluirse en un curso de cálculo diferencial:
+
+1. Conceptos básicos
+Números reales y propiedades.
+Recta numérica y desigualdades.
+Funciones: definición, dominio, rango, y clasificación (algebraicas, trigonométricas, exponenciales, logarítmicas, etc.).
+Límite de una función:
+Concepto intuitivo y definición formal (𝜖,ϵ-,𝛿,δ).
+Cálculo de límites.
+Límites unilaterales.
+Límites al infinito.
+Límites indeterminados.
+
+2. Continuidad
+Definición de continuidad en un punto y en un intervalo.
+Propiedades de las funciones continuas.
+Teoremas relacionados con la continuidad:
+Teorema del valor intermedio.
+Teorema de los extremos.
+
+3. Derivadas
+Concepto de derivada: definición como límite.
+Interpretación geométrica de la derivada (pendiente de la tangente).
+Reglas de derivación:
+Suma, resta, producto y cociente.
+Regla de la cadena.
+Derivadas de funciones comunes:
+Polinomios.
+Trigonométricas.
+Exponenciales y logarítmicas.
+Inversas trigonométricas.
+Derivadas implícitas.
+Derivadas de orden superior.
+
+4. Aplicaciones de la derivada
+Razón de cambio.
+Análisis de gráficos:
+Intervalos de crecimiento y decrecimiento.
+Máximos y mínimos (locales y absolutos).
+Concavidad y puntos de inflexión.
+Asintotas.
+Optimización:
+Problemas de maximización y minimización.
+Velocidades relacionadas.
+Teoremas importantes:
+Teorema de Rolle.
+Teorema del valor medio.
+
+5. L'Hôpital y formas indeterminadas
+Uso de la regla de L'Hôpital para resolver límites indeterminados (
+0,/,0,0/0, ∞,/,∞,∞/∞).
+Otras formas indeterminadas (0,⋅,∞,0⋅∞, ∞,−,∞,∞−∞, 1,∞,1,∞ ).
+
+6. Introducción a las series de Taylor y Maclaurin (opcional)
+Expansión en series de funciones.
+Uso de aproximaciones locales con polinomios.
+
+-----------matematicas discretas semetre 1 ------------
+Matemáticas discretas es un área de las matemáticas enfocada en el estudio de estructuras que son discretas, es decir, que no son continuas. Es fundamental en disciplinas como la informática, la criptografía, la teoría de redes y más. A continuación, se presentan los temas principales que suelen incluirse en un curso de matemáticas discretas:
+
+1. Introducción a las matemáticas discretas
+Definición y aplicaciones.
+Diferencia entre matemáticas continuas y discretas.
+
+2. Lógica matemática
+Proposiciones y conectivos lógicos.
+Tablas de verdad.
+Equivalencias lógicas.
+Implicaciones y biimplicaciones.
+Cuantificadores (existencial y universal).
+Negación de proposiciones cuantificadas.
+
+3. Teoría de conjuntos
+Conjuntos y subconjuntos.
+Operaciones con conjuntos: unión, intersección, diferencia, complemento.
+Producto cartesiano.
+Relaciones entre conjuntos.
+Diagramas de Venn.
+
+4. Relaciones y funciones
+Relaciones binarias:
+Propiedades: reflexiva, simétrica, transitiva, antisimétrica.
+Relaciones de equivalencia y de orden.
+Representación de relaciones: gráficas y matrices.
+Concepto de función.
+Tipos de funciones: inyectiva, suprayectiva, biyectiva.
+Composición de funciones e inversión.
+
+5. Álgebra booleana
+Variables y expresiones booleanas.
+Simplificación de expresiones booleanas.
+Tablas de verdad para circuitos lógicos.
+Puertas lógicas: AND, OR, NOT, NAND, NOR, XOR.
+Aplicaciones en diseño de circuitos digitales.
+
+6. Teoría de grafos
+Conceptos básicos: vértices, aristas, grafos dirigidos/no dirigidos.
+Representación de grafos: listas de adyacencia y matrices.
+Tipos de grafos: simples, completos, bipartitos, conexos.
+Caminos y circuitos:
+Caminos Eulerianos y circuitos Hamiltonianos.
+Árboles:
+Propiedades de los árboles.
+Árboles de expansión mínima (algoritmo de Kruskal y Prim).
+Grafos ponderados.
+
+7. Teoría de números
+Números primos y factorización.
+Máximo común divisor (MCD) y mínimo común múltiplo (mcm).
+Algoritmo de Euclides.
+Congruencias y aritmética modular.
+Aplicaciones en criptografía (RSA, clave pública).
+
+8. Principios de conteo
+Principio de multiplicación y suma.
+Permutaciones y combinaciones.
+Variaciones.
+Principio de inclusión-exclusión.
+
+9. Probabilidad discreta
+Espacios muestrales finitos.
+Probabilidad de eventos.
+Probabilidad condicional y regla de Bayes.
+Variables aleatorias discretas.
+
+10. Recurrencia e inducción matemática
+Introducción a las relaciones de recurrencia.
+Resolución de ecuaciones de recurrencia.
+Inducción matemática:
+Principio básico.
+Inducción fuerte.
+
+11. Teoría de lenguajes formales y autómatas (opcional)
+Conceptos básicos de lenguajes formales.
+Gramáticas y expresiones regulares.
+Autómatas finitos.
+Aplicaciones en ciencias de la computación.

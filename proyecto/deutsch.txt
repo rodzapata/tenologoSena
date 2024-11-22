@@ -1,0 +1,12 @@
+deutsch = alemán
+carro	= wagen
+mujer	= frau
+playa	= strand
+hermoso = schõn
+mujer alta y hermosa 	= Große und schöne Frau
+desarrollador web	= Webentwickler
+calidad de vida		= Lebensqualität
+chica hermosa		= schönes Mädchen
+clima en Alemania	= Klima in Deutschland
+ciudadades		= Städte
+
