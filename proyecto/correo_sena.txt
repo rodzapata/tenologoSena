@@ -1,6 +1,12 @@
-pasos para el proyecto web en rect empezado con sidebar
+pasos para el proyecto web en react empezado con sidebar
 https://www.youtube.com/watch?v=-e3-wtPmGLg
 
+sidegar código 369 
+https://www.youtube.com/watch?v=kC3DAW2h0Dg
+https://github.com/Franklin369/sidebarreact
+
+pagina para consultar los iconos de react
+https://react-icons.github.io/react-icons/
 
 como crear código limpio en c#
 https://medium.com/@kimwingco/c%C3%B3mo-preparar-tu-entrevista-t%C3%A9cnica-backend-6c4e733ada9e
