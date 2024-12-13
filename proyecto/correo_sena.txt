@@ -1,3 +1,9 @@
+curso de alemán
+usuario: rodney
+Clave: Rodney$1975.
+
+
+
 pasos para el proyecto web en react empezado con sidebar
 https://www.youtube.com/watch?v=-e3-wtPmGLg
 
