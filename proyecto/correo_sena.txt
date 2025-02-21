@@ -1,3 +1,6 @@
+ctor crea un constructor en c#
+
+-------
 curso de alemán
 usuario: rodney
 Clave: Rodney$1975.
@@ -66,6 +69,8 @@ https://account.jetbrains.com/licenses
 -------------------
 nueva plataforma:
 https://zajuna.sena.edu.co/
+contraseña: 021975Rod
+
 
 repositorio del sena instructor Gustavo
 git clone https://github.com/txvoz/proyecto_adso_809_810
@@ -74,8 +79,13 @@ para ingresar al correo sena, debo entrar al link:
 https://www.office.com
 
 correo: rodney.zapata@soy.sena.edu.co
-contrase a: 021975Rod
 nueva contraseña: Rodney$1975.
+
+contraseña: 021975Rod
+
+pruebas TyT
+https://prisma.icfes.edu.co/prisma-web/pages/administracion/autenticacion/autenticacionIcfes.jsf?faces-redirect=true#No-back-button
+
 
 Equipo de etapa practica:
 vinculo laboral, pasantía: Manuel Peña (aprobacionep9307@sena.edu.co)
