@@ -37,6 +37,11 @@ carpeta donde se suben las bitácoras:
 
 https://drive.google.com/drive/folders/18oIuOq8FO4G8i0d6CRn1DQnddqhKssrg
 
+
+Registro de Agencia Publica de Empleo (APE)
+https://agenciapublicadeempleo.sena.edu.co/spe-web/spe/oferta/dashboard
+
+
 ------
 universidad del magdalena
 
@@ -85,6 +90,9 @@ contraseña: 021975Rod
 
 pruebas TyT
 https://prisma.icfes.edu.co/prisma-web/pages/administracion/autenticacion/autenticacionIcfes.jsf?faces-redirect=true#No-back-button
+
+cronograma del icfees
+https://www.itm.edu.co/pruebas-saber-pro-y-tyt/
 
 
 Equipo de etapa practica:
