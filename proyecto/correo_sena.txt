@@ -1,3 +1,20 @@
+link de certificación de metodologías agiles en universisad de alberta
+Software Processes and Agile Practices
+
+https://coursera.org/share/76f07013f4ab023a51cd1a129eac7778
+
+link de certicacion asistente técnico de Google
+https://coursera.org/share/4adc5d987c4a50327b8f1741056b1fc4
+
+pronunicacion en ingles:
+https://coursera.org/share/3d817e7f2cd77a5fd3b6b01c26f991ac
+
+Manager Project
+https://coursera.org/share/74157e8c949514a0459db8c06743bac6
+
+https://prisma.icfes.edu.co/prisma-web/pages/administracion/autenticacion/autenticacionIcfes.jsf?faces-redirect=true#No-back-button
+
+------------------
 ctor crea un constructor en c#
 
 -------
@@ -89,7 +106,7 @@ nueva contraseña: Rodney$1975.
 contraseña: 021975Rod
 
 pruebas TyT
-https://prisma.icfes.edu.co/prisma-web/pages/administracion/autenticacion/autenticacionIcfes.jsf?faces-redirect=true#No-back-button
+
 
 cronograma del icfees
 https://www.itm.edu.co/pruebas-saber-pro-y-tyt/

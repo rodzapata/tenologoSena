@@ -4,6 +4,19 @@ el servicio tiene el numero 23000
 netstat -oan | find /i "23000"
 y nos muestra los puertos en la empresa es el 61061
 en la casa es 49789
+
+para cambiar el puerto de sqlserver hay que entra a panel de control
+Herramientas del Sistemas --- Administración de Equipo
+Debajo de Administración de Disco hay uno que se llama 
+Servicios y aplicaciones
+después se escoge SQL Server Configuration Manager
+y se escoge la opción SQL server network configuración
+se abre una ventana con 2 pestañas (protocolo , IP adresss)
+hay escoger la de IP apress y buscar al final la que dice IPAII
+TCP Dynamics Port: 51537 colocamos el puerto que queremos
+
+
+
 ---
 tutorial de spring boot
 https://www.youtube.com/watch?v=OXdPA2tyNXE
